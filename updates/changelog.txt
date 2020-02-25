@@ -1,6 +1,6 @@
-- Upstream to v4.9.214
-- Fix network signal guru
-- Enable NAP power saving state for Adreno 630 GPU
-- Some dts_eagle changes
-- Miscellaneous changes and improvements
-- Added permissive kernel as seperate file (useful for ppl who use audio mods)
+- qcacld-3.0: Optimization
+- Import gpu and some Q changes by Xiaomi
+- Use O3 optimisations by default
+- Fixed fast charging & enable usb fast charging
+- Introduce Simple Low Memory Killer
+- Fix memory leaks
